@@ -9,6 +9,6 @@ click to visit the website:https://velmurugantr.github.io/landing-pageheadphone/
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-Join the channel to see more videos like this. 
+
 
 ![](/preview.png)
